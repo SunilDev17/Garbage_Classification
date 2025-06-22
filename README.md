@@ -53,8 +53,6 @@ print(val_class)
 print(len(train_ds.class_names))
 
 
-
-
 print(train.class_names)
 print(val_class)
 print(len(train_ds.class_names))
